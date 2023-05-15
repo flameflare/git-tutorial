@@ -1,3 +1,6 @@
-GIt tutorial
+<<<<<<< HEAD
+# GIt tutorial
 
-  - feature - A
+  - feature-A
+  - fix-B
+
